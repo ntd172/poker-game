@@ -9,8 +9,8 @@ This file will be packaged with your application, when using `play dist`.
 - ./scripts/watch.sh : build javascript files
 
 TODO: 
-  - implement a logic to determin winners and losers for a poker game
-    - right now a winner is the last player at a table 
+  - implement a logic to determine winners and losers for a poker game
+    - a winner is the last player at a table 
 
   - add unit tests
     - javascripts 
